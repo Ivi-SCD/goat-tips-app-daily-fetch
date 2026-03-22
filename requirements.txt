@@ -1,0 +1,4 @@
+azure-functions
+httpx
+psycopg2-binary
+python-dotenv
